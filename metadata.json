@@ -1,0 +1,6 @@
+{
+  "name": "Premium Car Wash",
+  "description": "A visually stunning, highly responsive website for a premium car wash and detailing business. Features customized packages, interactive before/after sliders, team spotlights, and a real-time reservation system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
